@@ -1,0 +1,3 @@
+# Ignore Python cache and compiled files
+*.pyc
+frontend/__pycache__/
