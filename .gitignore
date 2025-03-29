@@ -1,9 +1,21 @@
-# Ignore Python cache and compiled files
+highlighter/# Ignore Python cache and compiled files
 *.pyc
 frontend/__pycache__/
 backend_new/.env
-web/node_modules/
+backend_new/venv
+backend_new/chroma_db
+backend_new/app.log
+backend_new/rag_app.db
 
+# Ignore SQLite database
+backend_new/chroma_db/chroma.sqlite3
+
+# Ignore log files
+backend_new/logs/*.log
+
+
+# web
+web/node_modules/
 
 # highlighter
 highlighter/node_modules
@@ -33,6 +45,25 @@ backend_new/logs/app_20250329.log
 backend_new/rag_app.db
 backend_new/.DS_Store
 backend_new/app.log
+# Backend
+backend/.env
+backend_new/.DS_Store
+backend_new/app.log
+backend_new/rag_app.db
+backend_new/chroma_db/
+backend_new/logs/
+backend_new/venv/
+
+# Frontend
+frontend/__pycache__/
+
+# Highlighter
+highlighter/.DS_Store
+highlighter/node_modules/
+highlighter/playwright-report/
+highlighter/blob-report/
+
+
 
 
 backend_new/.DS_Store
@@ -49,8 +80,5 @@ backend/.env
 
 
 
-
-
 backend_new/venv/backend_new/rag_app.db
 backend_new/temp_*.pdf
->>>>>>> Stashed changes
