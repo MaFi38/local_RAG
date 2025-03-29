@@ -4,3 +4,54 @@ frontend/__pycache__/
 backend_new/.env
 web/node_modules/
 
+<<<<<<< Updated upstream
+=======
+# highlighter
+highlighter/node_modules
+highlighter/.DS_Store
+highlighter/dist
+highlighter/*.local
+highlighter/types
+highlighter/test-results/
+highlighter/playwright-report/
+highlighter/blob-report/
+highlighter/playwright/.cache/
+
+backend_new/venv/
+
+backend_new/chroma_db/bb9308c8-d0d2-4b1e-aab2-d71e9a1f3fea/data_level0.bin
+backend_new/chroma_db/bb9308c8-d0d2-4b1e-aab2-d71e9a1f3fea/header.bin
+backend_new/chroma_db/bb9308c8-d0d2-4b1e-aab2-d71e9a1f3fea/link_lists.bin
+backend_new/chroma_db/chroma.sqlite3
+backend_new/logs/app_20250302.log
+backend_new/logs/app_20250303.log
+backend_new/logs/app_20250304.log
+backend_new/logs/app_20250305.log
+backend_new/logs/app_20250306.log
+backend_new/logs/app_20250311.log
+backend_new/logs/app_20250322.log
+backend_new/logs/app_20250329.log
+backend_new/rag_app.db
+backend_new/.DS_Store
+backend_new/app.log
+
+
+backend_new/.DS_Store
+backend_new/app.log
+backend_new/rag_app.db
+backend_new/chroma_db/
+backend_new/logs/
+
+backend/.env
+
+
+
+
+
+
+
+
+
+backend_new/venv/backend_new/rag_app.db
+backend_new/temp_*.pdf
+>>>>>>> Stashed changes
