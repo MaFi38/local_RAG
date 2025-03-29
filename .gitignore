@@ -4,8 +4,7 @@ frontend/__pycache__/
 backend_new/.env
 web/node_modules/
 
-<<<<<<< Updated upstream
-=======
+
 # highlighter
 highlighter/node_modules
 highlighter/.DS_Store
