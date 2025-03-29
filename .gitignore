@@ -1,3 +1,6 @@
 # Ignore Python cache and compiled files
 *.pyc
 frontend/__pycache__/
+backend_new/.env
+web/node_modules/
+

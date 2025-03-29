@@ -1,0 +1,1235 @@
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+INFO:root:Session ID: b375c7b8-3e55-4519-8b84-6f7f229264b9, User Query: how are you, Model: gpt-4o-mini
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+INFO:root:Session ID: 51f00577-7749-4350-9bac-cebd8810849f, User Query: hello, Model: gpt-4o-mini
+INFO:root:Session ID: 72c227f5-8864-4865-850c-a84c096d9131, User Query: hello, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 72c227f5-8864-4865-850c-a84c096d9131, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: b183cc31-7414-435d-aa82-a836e346d23d, User Query: hello how are you, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: b183cc31-7414-435d-aa82-a836e346d23d, AI Response: Hello! I'm here and ready to help you. How can I assist you today?
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+INFO:root:Session ID: 8c10375e-4d3d-4d3d-bae3-37cb3d3c6eb2, User Query: hello, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 8c10375e-4d3d-4d3d-bae3-37cb3d3c6eb2, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: 8c10375e-4d3d-4d3d-bae3-37cb3d3c6eb2, User Query: what is article , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 8c10375e-4d3d-4d3d-bae3-37cb3d3c6eb2, AI Response: An "article" can refer to several things depending on the context:
+
+1. **Grammar**: In English grammar, an article is a word that is used with a noun to specify grammatical definiteness or indefiniteness, such as "the" (definite article) or "a" and "an" (indefinite articles).
+
+2. **Publishing/Media**: An article is a written work published in print or electronic media. It can be found in newspapers, magazines, journals, or online platforms and covers a particular topic or event.
+
+3. **Law**: In legal terms, an article can refer to a specific section or clause in a formal document such as a treaty, contract, or legislation.
+
+If you have a specific context in mind, let me know, and I can provide more detailed information!
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: 0ffc214e-a920-4357-9528-70bac1c6166f, User Query: hello, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:chromadb.segment.impl.vector.local_persistent_hnsw:Number of requested results 2 is greater than number of elements in index 0, updating n_results = 0
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 0ffc214e-a920-4357-9528-70bac1c6166f, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: 0ffc214e-a920-4357-9528-70bac1c6166f, User Query: how are you , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:chromadb.segment.impl.vector.local_persistent_hnsw:Number of requested results 2 is greater than number of elements in index 0, updating n_results = 0
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 0ffc214e-a920-4357-9528-70bac1c6166f, AI Response: Thank you for asking! As an AI, I don't have feelings, but I'm here and ready to help you. How can I assist you today?
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+INFO:root:Session ID: ace568c5-2dd8-4ccb-a456-c010fcc29dbf, User Query: Wie viel Zeit wird für den Schritt 'Pfanne aus Schrank holen u. auf Herdplatte stellen' benötigt?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:chromadb.segment.impl.vector.local_persistent_hnsw:Number of requested results 2 is greater than number of elements in index 0, updating n_results = 0
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: ace568c5-2dd8-4ccb-a456-c010fcc29dbf, AI Response: Die Zeit, die benötigt wird, um eine Pfanne aus dem Schrank zu holen und auf die Herdplatte zu stellen, hängt von verschiedenen Faktoren ab, wie beispielsweise der Entfernung zwischen dem Schrank und dem Herd, ob die Pfanne leicht zugänglich ist und wie schnell man arbeitet. Im Durchschnitt könnte dieser Schritt jedoch etwa 10 bis 30 Sekunden in Anspruch nehmen.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: 21b42f97-a892-4e16-9b7b-d70a102a5e7c, User Query: Wie viel Zeit wird für den Schritt 'Pfanne aus Schrank holen u. auf Herdplatte stellen' benötigt?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 21b42f97-a892-4e16-9b7b-d70a102a5e7c, AI Response: Die Zeit, die benötigt wird, um eine Pfanne aus dem Schrank zu holen und sie auf die Herdplatte zu stellen, kann variieren, abhängig von Faktoren wie der Entfernung zum Schrank, der Art des Schranks und der Größe der Pfanne. Im Allgemeinen könnte dieser Schritt jedoch zwischen 10 bis 30 Sekunden in Anspruch nehmen.
+INFO:root:Session ID: f6cc12f8-baec-4d0a-8cf2-3413509bc4a7, User Query: Welche Prozessschritte benötigen genau 100 HM, und welche Tätigkeiten werden dabei ausgeführt?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: f6cc12f8-baec-4d0a-8cf2-3413509bc4a7, AI Response: Um gezielt zu beantworten, welche Prozessschritte genau 100 Stunden-man (HM) benötigen und welche Tätigkeiten dabei ausgeführt werden, benötige ich detaillierte Informationen über den spezifischen Prozess, auf den Sie sich beziehen. In der Regel können die Schritte in einem Prozess je nach Branche und Kontext variieren.
+
+Generell könnten in einem typischen Projekt- oder Produktionsprozess folgende Schritte und Tätigkeiten notwendig sein, die jeweils 100 HM in Anspruch nehmen könnten:
+
+1. **Planung**: Strategische Planung der Arbeitsabläufe, Ressourcenzuweisung und Zeitmanagement.
+2. **Dokumentation**: Erstellung und Überprüfung von notwendigen Unterlagen und Protokollen.
+3. **Entwicklung**: Programmierung, Produktgestaltung oder Konstruktion spezifischer Komponenten.
+4. **Implementierung**: Umsetzung von Projekten oder Prozessen in der Praxis.
+5. **Testing**: Durchführung von Tests zur Qualitätssicherung und -kontrolle.
+6. **Schulung**: Ausbildung der Mitarbeiter in neuen Prozessen oder Technologien.
+7. **Evaluierung**: Analyse der Ergebnisse und Feedback zur weiteren Verbesserung.
+
+Um präzise Angaben zu den Prozessschritten und Tätigkeiten machen zu können, müssten spezifische Informationen über den jeweiligen Prozess, dessen Umfang und die genauen Aufgaben im Rahmen der Arbeit vorliegen.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: e057a167-f1a5-440d-9ac0-6799166a6153, User Query: Welche Prozessschritte benötigen genau 100 HM, und welche Tätigkeiten werden dabei ausgeführt?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: e057a167-f1a5-440d-9ac0-6799166a6153, AI Response: Die Prozessschritte, die genau 100 HM benötigen, sind:
+
+- **Teller aus dem Schrank holen, kein Teller da, schmutzigen Teller schnell abwaschen**: In diesem Schritt holst du den Teller, stellst fest, dass kein sauberer Teller vorhanden ist, und wäschst schnell einen schmutzigen Teller ab.
+  
+- **Warten bis Eier gebraten sind**: Hier wartest du darauf, dass die Spiegeleier in der Pfanne fertig gebraten sind.
+
+Diese beiden Schritte würden jeweils 100 HM in Anspruch nehmen.
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+INFO:root:Session ID: c27255d8-f4f9-48a9-99e3-dcce196eb123, User Query: hello, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:backoff:Backing off send_request(...) for 0.5s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: c27255d8-f4f9-48a9-99e3-dcce196eb123, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: 30065998-99c7-417c-bfa6-4ed3cb6d3963, User Query: hello, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 30065998-99c7-417c-bfa6-4ed3cb6d3963, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: 30065998-99c7-417c-bfa6-4ed3cb6d3963, User Query: can you tell me what article 10 is in usa consitutuion ?, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithError: Failed to POST https://api.smith.langchain.com/runs/multipart in LangSmith API. HTTPError('400 Client Error: Bad Request for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Empty request"}')
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 30065998-99c7-417c-bfa6-4ed3cb6d3963, AI Response: Article X refers to the Tenth Amendment of the United States Constitution. The Tenth Amendment states that the powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people. This amendment is part of the Bill of Rights and emphasizes the federal system of government in the United States, underscoring the principle of states' rights.
+INFO:root:Session ID: 30065998-99c7-417c-bfa6-4ed3cb6d3963, User Query: can you explian me what article 9 is in USA constitution ?, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 30065998-99c7-417c-bfa6-4ed3cb6d3963, AI Response: In your request, you mentioned "Article 9," but it seems you might be referring to the Ninth Amendment of the United States Constitution. The Ninth Amendment states:
+
+"The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people."
+
+This means that just because certain rights are specifically listed in the Constitution, it does not mean that other rights, not listed, do not exist. The Ninth Amendment was included to ensure that individuals have additional fundamental rights beyond those specifically mentioned in the Constitution and to prevent the government from expanding its powers on the basis that some rights were not mentioned.
+INFO:root:Session ID: 30065998-99c7-417c-bfa6-4ed3cb6d3963, User Query: okay what about article 11?, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 30065998-99c7-417c-bfa6-4ed3cb6d3963, AI Response: In your request, you mentioned "Article 11," but I assume you are referring to the Eleventh Amendment of the United States Constitution. The Eleventh Amendment states:
+
+"The Judicial power of the United States shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State."
+
+Ratified in 1795, the Eleventh Amendment established that federal courts do not have the authority to hear cases brought against a state by citizens of another state or citizens or subjects of a foreign state. This amendment was adopted in response to the Supreme Court case Chisholm v. Georgia, which held that states did not possess sovereign immunity from suits by citizens of other states. The Eleventh Amendment thus effectively underscored the principle of state sovereign immunity in these contexts.
+INFO:root:Session ID: 30065998-99c7-417c-bfa6-4ed3cb6d3963, User Query: hello, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 30065998-99c7-417c-bfa6-4ed3cb6d3963, AI Response: Hello again! How can I help you today?
+INFO:root:Session ID: 30065998-99c7-417c-bfa6-4ed3cb6d3963, User Query: tell me about congress , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 30065998-99c7-417c-bfa6-4ed3cb6d3963, AI Response: The United States Congress is the legislative branch of the federal government and is responsible for making laws. It is a bicameral body, meaning it has two separate chambers: the Senate and the House of Representatives.
+
+**1. The Senate:**
+   - Composed of 100 Senators, with each state having two Senators, regardless of population.
+   - Senators serve six-year terms, with approximately one-third of the Senate seats up for election every two years.
+   - The Vice President of the United States is the President of the Senate but only votes to break ties.
+   - Responsibilities include approving treaties and confirming presidential appointments such as judges, cabinet members, and ambassadors.
+
+**2. The House of Representatives:**
+   - Composed of 435 members who are apportioned among the states based on population.
+   - Representatives serve two-year terms, with all seats up for election every two years.
+   - The Speaker of the House is the leader and is elected by the members.
+   - The House has the exclusive power to initiate revenue bills and impeach federal officials.
+
+**Powers and Responsibilities:**
+- Congress is vested with a wide range of powers in Article I, Section 8 of the Constitution. These include the power to levy taxes, coin money, regulate commerce, declare war, and maintain armed forces.
+- Congress has the power to make laws necessary and proper for carrying out its duties, which is known as the "necessary and proper clause."
+- Additionally, Congress oversees the executive and judicial branches through hearings, investigations, and impeachment proceedings.
+
+Congress plays a crucial role in the federal government by creating laws, shaping domestic and foreign policy, and representing the interests and will of the American people.
+INFO:root:Session ID: 30065998-99c7-417c-bfa6-4ed3cb6d3963, User Query: hello , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 30065998-99c7-417c-bfa6-4ed3cb6d3963, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: 30065998-99c7-417c-bfa6-4ed3cb6d3963, User Query: can you tell me about congress , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 30065998-99c7-417c-bfa6-4ed3cb6d3963, AI Response: Certainly! The United States Congress is the legislative branch of the federal government and is tasked with making the nation's laws. It is a bicameral body, which means it has two separate chambers: the Senate and the House of Representatives.
+
+### The Senate:
+- **Composition**: The Senate consists of 100 Senators, with each of the 50 states electing two Senators, regardless of the state's population.
+- **Term**: Senators serve six-year terms, with approximately one-third of the Senate seats up for election every two years.
+- **Leadership**: The Vice President of the United States serves as the President of the Senate and can cast tie-breaking votes. The Senate also elects a President pro tempore, usually the longest-serving member of the majority party, to lead sessions in the Vice President's absence.
+- **Powers and Responsibilities**:
+  - Confirms presidential appointments, such as federal judges, cabinet members, and ambassadors.
+  - Ratifies treaties with foreign countries (requires a two-thirds vote).
+  - Conducts impeachment trials for federal officials, including the President, with the power to remove them from office if convicted.
+
+### The House of Representatives:
+- **Composition**: The House consists of 435 voting members, with each state's representation based on its population. States are divided into congressional districts, each represented by one member.
+- **Term**: Representatives serve two-year terms, with all seats up for election every two years.
+- **Leadership**: The Speaker of the House, elected by the members, is the leader of the House and second in the line of succession to the presidency.
+- **Powers and Responsibilities**:
+  - Initiates revenue bills, making it the only body that can propose taxes.
+  - Has the power to impeach federal officials, including the President, bringing charges that could lead to removal from office.
+
+### Powers of Congress:
+- **Legislative Authority**: Congress has the power to create laws on a wide range of issues, as outlined in Article I, Section 8 of the U.S. Constitution. This includes the power to levy taxes, borrow money, regulate commerce, declare war, and maintain the armed forces.
+- **Oversight**: Congress oversees the executive and judicial branches through hearings, investigations, and the power to subpoena documents and testimony.
+- **Checks and Balances**: As part of the system of checks and balances, Congress can override presidential vetoes, approve or reject appointments, and impeach and remove officials from office.
+
+Overall, Congress plays a vital role in the American system of government by representing the people, enacting legislation, and providing checks and balances on the other branches of government.
+INFO:root:Session ID: 30065998-99c7-417c-bfa6-4ed3cb6d3963, User Query: what is check and Balance mean ?, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 30065998-99c7-417c-bfa6-4ed3cb6d3963, AI Response: "Checks and balances" is a fundamental principle in the United States government system designed to ensure that no single branch becomes too powerful. This system distributes power among the three branches of government: the legislative branch (Congress), the executive branch (the President), and the judicial branch (the Supreme Court and other federal courts). Each branch has distinct and separate powers, and the ability to check the powers of the other branches in various ways. Here’s how it works:
+
+### Legislative Branch (Congress):
+- **Checks on the Executive**:
+  - Can override a presidential veto with a two-thirds vote in both the House and the Senate.
+  - Approves or rejects presidential appointments and treaties.
+  - Has the power to impeach and remove the President and other federal officials.
+  - Controls the budget, which can limit the executive branch's actions.
+
+- **Checks on the Judiciary**:
+  - Confirms judicial appointments, including Supreme Court Justices.
+  - Can impeach and remove federal judges.
+  - Proposes constitutional amendments to override judicial decisions.
+
+### Executive Branch (President):
+- **Checks on the Legislature**:
+  - Can veto bills passed by Congress, although Congress can override the veto.
+  - May call special sessions of Congress.
+  - Executes and enforces laws passed by Congress.
+
+- **Checks on the Judiciary**:
+  - Appoints federal judges and Supreme Court Justices, with Senate approval.
+  - Has the power to pardon or grant reprieves for offenses against the United States.
+
+### Judicial Branch (Courts):
+- **Checks on the Legislature**:
+  - Can declare laws passed by Congress to be unconstitutional through judicial review.
+
+- **Checks on the Executive**:
+  - Can declare actions by the executive branch to be unconstitutional.
+  - Judges and Justices serve lifetime appointments, making them less susceptible to political pressure.
+
+By balancing powers and implementing checks, the system is designed to prevent any one branch from asserting dominance over the others, thereby maintaining a steady balance of power within the federal government and safeguarding the liberties of the people.
+INFO:root:Session ID: 30065998-99c7-417c-bfa6-4ed3cb6d3963, User Query: ooo nice thank you , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 30065998-99c7-417c-bfa6-4ed3cb6d3963, AI Response: You're welcome! If you have any more questions or need further clarification on any topic, feel free to ask. I'm here to help!
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+INFO:root:Session ID: 5f80767a-eda7-43b9-901b-4dfebde29bf5, User Query: hello , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 5f80767a-eda7-43b9-901b-4dfebde29bf5, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: 434368a2-ff97-4fec-971f-1bae8b492a7c, User Query: how are you doing , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 434368a2-ff97-4fec-971f-1bae8b492a7c, AI Response: Thank you for asking! I'm just a computer program, so I don't have feelings, but I'm here and ready to help you with any questions you have. How can I assist you today?
+INFO:root:Session ID: 754bb9d0-354a-4e28-a8e2-153dcf1274ff, User Query: hello, Model: gpt-4o
+INFO:root:Session ID: 44afea1e-a9c6-4dd8-8ce8-ec6c978d0b8d, User Query: hello, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 754bb9d0-354a-4e28-a8e2-153dcf1274ff, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: d95f4cb5-4331-4800-97c8-7c273d07fa57, User Query: hello, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: 44afea1e-a9c6-4dd8-8ce8-ec6c978d0b8d, AI Response: Hello! How can I assist you today?
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: d95f4cb5-4331-4800-97c8-7c273d07fa57, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: 5f80767a-eda7-43b9-901b-4dfebde29bf5, User Query: hello how can i get a stock market prediction , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:chromadb.segment.impl.vector.local_persistent_hnsw:Number of requested results 2 is greater than number of elements in index 0, updating n_results = 0
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 5f80767a-eda7-43b9-901b-4dfebde29bf5, AI Response: Predicting the stock market is inherently challenging due to its volatile and complex nature. However, several methods and sources can provide insights or informed guesses about potential market movements:
+
+1. **Financial Analysts**: Many financial institutions and analysts provide market predictions based on economic data, company performance, and other factors.
+
+2. **Market Research Reports**: Companies such as Bloomberg, Reuters, and Morningstar offer detailed reports and forecasts.
+
+3. **Technical Analysis**: This involves analyzing statistical trends from trading activity, such as past prices and volume.
+
+4. **Fundamental Analysis**: This approach evaluates a company's financial statements, management, and market position to determine stock value.
+
+5. **Quantitative Models**: These use mathematical algorithms and historical data to forecast stock trends.
+
+6. **News and Economic Indicators**: Staying informed on economic indicators like interest rates, employment reports, and geopolitical events can offer context for stock market predictions.
+
+7. **Investment Platforms**: Many online platforms provide tools and calculators to analyze and predict stock trends.
+
+While these methods can help, remember that predictions are not guarantees and involve a degree of risk. Always consider diversifying your investments and consulting with a financial advisor for personalized advice.
+INFO:root:Session ID: 5f80767a-eda7-43b9-901b-4dfebde29bf5, User Query: can you explian more about the "Technical Analysis:", Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:chromadb.segment.impl.vector.local_persistent_hnsw:Number of requested results 2 is greater than number of elements in index 0, updating n_results = 0
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 5f80767a-eda7-43b9-901b-4dfebde29bf5, AI Response: Certainly! Technical analysis is a method used to evaluate and predict the future price movements of stocks or other securities based on historical market data. Here are the key components and concepts of technical analysis:
+
+### Key Concepts of Technical Analysis:
+
+1. **Price Action**: Technical analysts study historical price movements to identify patterns and trends. They believe that all relevant information—such as earnings, news, and market sentiment—is reflected in the price of a security.
+
+2. **Charts**: Technical analysis involves the use of various charts to visualize price movements over time. Common types include:
+   - **Line Charts**: A simple line connecting closing prices over a specified period.
+   - **Bar Charts**: Displays the open, high, low, and close (OHLC) prices for a given period, showing price range and volatility.
+   - **Candlestick Charts**: Similar to bar charts but provide more visual detail with colored bodies that represent price movement (bullish or bearish).
+
+3. **Trends**: Understanding market trends is fundamental. Analysts classify trends as:
+   - **Uptrend**: Higher highs and higher lows.
+   - **Downtrend**: Lower highs and lower lows.
+   - **Sideways/Horizontal Trend**: Prices move within a range without a clear upward or downward direction.
+
+4. **Support and Resistance**:
+   - **Support**: A price level where a stock tends to stop falling and may bounce back up. Buyers often enter the market at this level.
+   - **Resistance**: A price level where a stock tends to stop rising and may fall back down. Sellers often enter the market at this level.
+
+5. **Indicators and Oscillators**: Various mathematical calculations based on price and volume data are used to identify trends, confirm patterns, and predict future movements. Common indicators include:
+   - **Moving Averages**: Smooth out price action and help identify trends (e.g., Simple Moving Average, Exponential Moving Average).
+   - **Relative Strength Index (RSI)**: Measures the speed and change of price movements to identify overbought or oversold conditions.
+   - **Moving Average Convergence Divergence (MACD)**: Indicates the direction of the trend and potential reversals.
+
+6. **Chart Patterns**: Technical analysts look for specific patterns that can signal future price movements. Common patterns include:
+   - **Head and Shoulders**: Indicates a reversal trend.
+   - **Triangles**: Can indicate continuation or reversal of a trend.
+   - **Flags and Pennants**: Short-term continuation patterns that often follow a strong price movement.
+
+### Importance of Volume:
+Volume refers to the number of shares traded over a certain period and is crucial in technical analysis. High volume can confirm a price trend, while low volume may indicate a lack of interest or strength in the movement.
+
+### Timeframes:
+Technical analysis can be applied across various timeframes, from minutes (day trading) to weeks or months (swing trading) to years (long-term investing). The choice of timeframe depends on the trader's or investor's strategy.
+
+### Limitations:
+While technical analysis can provide insights, it's essential to recognize its limitations. Price movements are influenced by an array of factors, and patterns may not always predict future performance. It's often beneficial to use technical analysis alongside fundamental analysis and stay updated on broader market trends and news.
+
+In summary, technical analysis is a tool that helps traders and investors make informed decisions based on price movements and market data, but it should be used with an understanding of its limitations and in combination with other analysis methods.
+INFO:root:Session ID: ef74eae4-5968-45a9-bfdc-f0236c63c3b3, User Query: how are you, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:chromadb.segment.impl.vector.local_persistent_hnsw:Number of requested results 2 is greater than number of elements in index 0, updating n_results = 0
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: ef74eae4-5968-45a9-bfdc-f0236c63c3b3, AI Response: I'm just a computer program, so I don't have feelings, but I'm here and ready to help you! How can I assist you today?
+INFO:root:Session ID: ef74eae4-5968-45a9-bfdc-f0236c63c3b3, User Query: i understand sorry , Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:chromadb.segment.impl.vector.local_persistent_hnsw:Number of requested results 2 is greater than number of elements in index 0, updating n_results = 0
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: ef74eae4-5968-45a9-bfdc-f0236c63c3b3, AI Response: No need to apologize! I'm here to help with whatever you need. What can I assist you with today?
+INFO:root:Session ID: b3f1d11e-e049-49ca-9b35-badb05d22008, User Query: hello , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:chromadb.segment.impl.vector.local_persistent_hnsw:Number of requested results 2 is greater than number of elements in index 0, updating n_results = 0
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: b3f1d11e-e049-49ca-9b35-badb05d22008, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: b3f1d11e-e049-49ca-9b35-badb05d22008, User Query: can you tell me about the usa constitution , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:chromadb.segment.impl.vector.local_persistent_hnsw:Number of requested results 2 is greater than number of elements in index 0, updating n_results = 0
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: b3f1d11e-e049-49ca-9b35-badb05d22008, AI Response: The United States Constitution is the supreme law of the United States, serving as the foundation for the federal government and outlining the nation's political framework. Drafted in 1787 and ratified in 1788, it replaced the Articles of Confederation and established the federal government's three branches: legislative, executive, and judicial.
+
+Key features of the Constitution include:
+
+1. **Preamble**: The introduction outlines the Constitution's purpose, including forming a more perfect union, establishing justice, ensuring domestic tranquility, providing for the common defense, promoting general welfare, and securing the blessings of liberty.
+
+2. **Articles**: The Constitution consists of seven articles:
+   - **Article I**: Establishes the legislative branch (Congress), composed of the House of Representatives and the Senate, with the power to make laws.
+   - **Article II**: Establishes the executive branch, led by the President, responsible for enforcing laws.
+   - **Article III**: Establishes the judicial branch, headed by the Supreme Court, with the power to interpret laws.
+   - **Article IV**: Deals with states' powers and limits, as well as the federal government's relationship with the states.
+   - **Article V**: Details the process for amending the Constitution.
+   - **Article VI**: Establishes the Constitution as the supreme law of the land and mandates that all elected officials swear an oath to support it.
+   - **Article VII**: Outlines the process for ratification of the Constitution.
+
+3. **Amendments**: There are 27 amendments to the Constitution. The first ten, known as the Bill of Rights, were ratified in 1791 and guarantee fundamental rights such as freedom of speech, religion, and the press; the right to bear arms; and protection against unreasonable searches and seizures.
+
+4. **Separation of Powers and Checks and Balances**: The Constitution establishes a system of checks and balances to prevent any one branch from gaining too much power, ensuring that each branch can limit the powers of the others.
+
+The Constitution is a living document, allowing for interpretation and amendment to adapt to changing times while preserving the fundamental principles established by the Founding Fathers.
+INFO:root:Session ID: b3f1d11e-e049-49ca-9b35-badb05d22008, User Query: what is amendments , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:chromadb.segment.impl.vector.local_persistent_hnsw:Number of requested results 2 is greater than number of elements in index 0, updating n_results = 0
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: b3f1d11e-e049-49ca-9b35-badb05d22008, AI Response: Amendments are changes or additions made to the United States Constitution. They allow the Constitution to evolve and adapt to new circumstances and societal changes without altering the entire document. The process for amending the Constitution is outlined in Article V.
+
+### Amendment Process
+
+There are two ways to propose an amendment:
+
+1. **Congressional Proposal**: An amendment can be proposed by a two-thirds majority vote in both the House of Representatives and the Senate.
+   
+2. **Constitutional Convention**: An amendment can also be proposed by a constitutional convention called for by two-thirds of the state legislatures. This method has never been used.
+
+Once proposed, an amendment must be ratified by three-fourths (currently 38 out of 50) of the state legislatures or by conventions in three-fourths of the states.
+
+### Notable Amendments
+
+- **First Ten Amendments (Bill of Rights)**: Ratified in 1791, they include fundamental rights such as freedom of speech, religion, and the press; the right to bear arms; protection against unreasonable searches and seizures; and rights related to criminal prosecutions.
+
+- **13th Amendment**: Abolished slavery (1865).
+
+- **14th Amendment**: Granted citizenship to all persons born or naturalized in the United States and provided equal protection under the law (1868).
+
+- **15th Amendment**: Prohibited the federal government and the states from denying a citizen the right to vote based on race, color, or previous condition of servitude (1870).
+
+- **19th Amendment**: Granted women the right to vote (1920).
+
+- **22nd Amendment**: Limited the president to two terms in office (1951).
+
+- **26th Amendment**: Lowered the voting age to 18 (1971).
+
+Amendments are essential tools for ensuring the Constitution remains relevant and responsive to contemporary issues.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: 2c8dbec7-443f-4127-98f3-6c69aa4fe61e, User Query: hello, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:chromadb.segment.impl.vector.local_persistent_hnsw:Number of requested results 2 is greater than number of elements in index 0, updating n_results = 0
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 2c8dbec7-443f-4127-98f3-6c69aa4fe61e, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: 12c35240-1c81-4f45-95be-81a7e6130d60, User Query: helo, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:chromadb.segment.impl.vector.local_persistent_hnsw:Number of requested results 2 is greater than number of elements in index 0, updating n_results = 0
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 12c35240-1c81-4f45-95be-81a7e6130d60, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: 6c79fef2-aa37-4595-a67e-e75edbf8173b, User Query: hello, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:chromadb.segment.impl.vector.local_persistent_hnsw:Number of requested results 2 is greater than number of elements in index 0, updating n_results = 0
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 6c79fef2-aa37-4595-a67e-e75edbf8173b, AI Response: Hello! How can I assist you today?
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: d8ec9aeb-bbde-4214-97f7-28bae5a2aa1f, User Query: Welche Schritte sind beim Eierbraten beteiligt und wie viel Zeit ist für jeden Schritt vorgesehen?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: d8ec9aeb-bbde-4214-97f7-28bae5a2aa1f, AI Response: Die Schritte beim Eierbraten und eine allgemeine Einschätzung der Zeit, die für jeden Schritt vorgesehen sein könnte, sind wie folgt:
+
+1. **Pfanne aus Schrank holen u. auf Herdplatte stellen** - ca. 1-2 Minuten
+2. **Dienstgespräch mit Chef (bereit Überstunden zu machen?)** - ca. 5 Minuten
+3. **Bratfettbox aus Kühlschrank holen und neben Herd stellen** - ca. 1-2 Minuten
+4. **Deckel angehoben, zu wenig Fett in Box, Gang in Keller neue Bratfettbox holen** - ca. 3-5 Minuten
+5. **Eierkarton aus dem Kühlschrank holen u. neben Herd stellen** - ca. 1 Minute
+6. **Toilettengang** - ca. 5 Minuten
+7. **Bratflamme anstellen** - ca. 1 Minute
+8. **Handyanruf von Ehefrau (heute Abend Milch mitbringen)** - ca. 2-3 Minuten
+9. **Bratfett aus Box in die Pfanne mit Messer geben** - ca. 1-2 Minuten
+10. **Warten auf Ende des Schmelzvorgangs** - ca. 2-5 Minuten
+11. **Erhöhung der Heizflamme (war zu gering eingestellt)** - ca. 1 Minute
+12. **Eier aus Karton nehmen (3 mal)** - ca. 1-2 Minuten
+13. **Eier aufschlagen am Pfannenrand und in die Pfanne gleiten lassen** - ca. 2 Minuten
+14. **Ein Ei läuft stark am Pfannenrand runter zur Flamme, Pfanne vom Herdplatte heben, mit Tuch säubern, zurückstellen** - ca. 2-3 Minuten
+15. **Warten bis Eier gebraten sind** - ca. 5-7 Minuten
+16. **Teller aus dem Schrank holen, kein Teller da, schmutzigen Teller schnell abwaschen** - ca. 3-5 Minuten
+17. **Fertige Spiegeleier aus Pfanne auf Teller legen** - ca. 1-2 Minuten
+
+Bitte beachten Sie, dass diese Zeiten variieren können, je nach individueller Geschwindigkeit und Umgebungsfaktoren.
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+INFO:openai._base_client:Retrying request to /embeddings in 0.389143 seconds
+INFO:openai._base_client:Retrying request to /embeddings in 0.880451 seconds
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: c02c5b25-97d1-4777-b429-917604de0fe9, User Query: Welche Schritte sind beim Braten der Eier beteiligt und wie viel Zeit wird für jeden Schritt benötigt?, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: c02c5b25-97d1-4777-b429-917604de0fe9, AI Response: Die Schritte beim Braten der Eier und die geschätzte Zeit für jeden Schritt sind:
+
+1. **Pfanne aus Schrank holen und auf Herdplatte stellen** - ca. 1 Minute
+2. **Bratfettbox aus Kühlschrank holen und neben Herd stellen** - ca. 1 Minute
+3. **Bratflamme anstellen** - ca. 1 Minute
+4. **Bratfett aus Box in die Pfanne mit Messer geben** - ca. 1–2 Minuten
+5. **Warten auf Ende des Schmelzvorgangs** - ca. 1–2 Minuten
+6. **Erhöhung der Heizflamme (war zu gering eingestellt)** - ca. 1 Minute
+7. **Eier aus Karton nehmen (3-mal)** - ca. 1 Minute
+8. **Eier aufschlagen am Pfannenrand und in die Pfanne gleiten lassen** - ca. 1–2 Minuten
+9. **Ein Ei läuft stark am Pfannenaußenrand herunter zur Flamme, Pfanne von Herdplatte heben, mit Tuch säubern, zurückstellen** - ca. 2 Minuten
+10. **Warten, bis Eier gebraten sind** - ca. 3–5 Minuten
+11. **Teller aus dem Schrank holen, kein Teller da, schmutzigen Teller schnell abwaschen** - ca. 2–3 Minuten
+12. **Fertige Spiegeleier aus Pfanne auf Teller legen** - ca. 1 Minute
+
+Bitte beachten Sie, dass die Zeiten Schätzungen sind und je nach individuellen Fähigkeiten und Gegebenheiten variieren können.
+INFO:root:Session ID: c02c5b25-97d1-4777-b429-917604de0fe9, User Query: Welche Schritte sind beim Braten der Eier von der Zubereitung bis zum fertigen Gericht involviert, und wie viel Zeit wird für jeden Schritt laut dem Text benötigt?, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: c02c5b25-97d1-4777-b429-917604de0fe9, AI Response: Der Text enthält keine spezifischen Zeitangaben für jeden Schritt, jedoch können die Schritte für das Braten der Eier von der Zubereitung bis zum fertigen Gericht wie folgt zusammengefasst werden:
+
+1. **Pfanne aus Schrank holen und auf Herdplatte stellen**
+2. **Bratfettbox aus Kühlschrank holen und neben Herd stellen**
+3. **Bratflamme anstellen**
+4. **Bratfett aus Box in die Pfanne mit Messer geben**
+5. **Warten auf Ende des Schmelzvorgangs**
+6. **Erhöhung der Heizflamme (war zu gering eingestellt)**
+7. **Eier aus Karton nehmen (3-mal)**
+8. **Eier aufschlagen am Pfannenrand und in die Pfanne gleiten lassen**
+9. **Ein Ei läuft stark am Pfannenaußenrand herunter zur Flamme, Pfanne von Herdplatte heben, mit Tuch säubern, zurückstellen**
+10. **Warten, bis Eier gebraten sind**
+11. **Teller aus dem Schrank holen, kein Teller da, schmutzigen Teller schnell abwaschen**
+12. **Fertige Spiegeleier aus Pfanne auf Teller legen**
+
+Da der Text keine Zeitangaben enthält, sind die benötigten Zeiten für die Schritte nicht spezifiziert. Bei der Durchführung dieser Schritte könnte man insgesamt abhängig von der Erfahrung und Effizienz, grob 10 bis 15 Minuten veranschlagen. Dies schließt Vorbereitung, das Braten und das Servieren der Eier ein.
+INFO:root:Session ID: f955f2cc-e6f0-431f-93f5-f842bb0975f8, User Query: hello, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: f955f2cc-e6f0-431f-93f5-f842bb0975f8, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: e011746f-2ccc-469f-a123-95de1b5b38ba, User Query: hi, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: e011746f-2ccc-469f-a123-95de1b5b38ba, AI Response: Hallo! Wie kann ich Ihnen helfen?
+INFO:root:Session ID: e21b61de-af89-420d-ae75-ca52010bb94b, User Query: hello, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: e21b61de-af89-420d-ae75-ca52010bb94b, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: 2c71816e-fb48-40e5-bb8b-4caaa76e06ea, User Query: can you give me a news about 2020 , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 2c71816e-fb48-40e5-bb8b-4caaa76e06ea, AI Response: Sure! Here is a summary of some major events that took place in 2020:
+
+1. **COVID-19 Pandemic**: The year 2020 was dominated by the outbreak of the novel coronavirus, COVID-19, which rapidly spread across the globe. It prompted widespread lockdowns and social distancing measures, drastically impacting economies and daily life worldwide. Healthcare systems were overwhelmed, and efforts to develop vaccines commenced.
+
+2. **Black Lives Matter Protests**: Following the killing of George Floyd by police in Minneapolis, Minnesota, massive protests against police brutality and systemic racism erupted in the United States and spread to other parts of the world. The Black Lives Matter movement gained significant international attention.
+
+3. **U.S. Presidential Election**: The United States held a presidential election on November 3, 2020. Joe Biden, the Democratic candidate, won against the incumbent president, Donald Trump. His running mate, Kamala Harris, became the first woman and person of Black and South Asian descent to be elected Vice President.
+
+4. **Australian Bushfires**: Early in the year, devastating bushfires ravaged large parts of Australia, resulting in the loss of human lives and wildlife and significant damage to the environment and property.
+
+5. **Beirut Explosion**: On August 4, a massive explosion occurred in the port of Beirut, Lebanon, caused by the detonation of 2,750 tonnes of ammonium nitrate. The blast resulted in significant casualties and widespread destruction in the city.
+
+These are just a few of the significant events, and 2020 was a year of numerous other important developments across politics, culture, and science.
+INFO:root:Session ID: 2c71816e-fb48-40e5-bb8b-4caaa76e06ea, User Query: COVID-19 Pandemic:, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 2c71816e-fb48-40e5-bb8b-4caaa76e06ea, AI Response: The COVID-19 pandemic was the defining global event of 2020. It began in late 2019 in Wuhan, China, and quickly spread to countries around the world. The World Health Organization (WHO) declared it a pandemic on March 11, 2020. The virus caused severe respiratory illness and was highly contagious, leading to widespread public health measures like lockdowns, social distancing, and mask-wearing to slow its spread.
+
+Healthcare systems in many countries were overwhelmed by the number of cases, leading to shortages of medical supplies and equipment. Governments implemented various strategies to cope with the health crisis and its economic ramifications, as businesses closed and unemployment rates soared.
+
+Researchers across the world worked rapidly to develop vaccines, with several, including those from Pfizer-BioNTech, Moderna, and AstraZeneca, reaching emergency use authorization by the end of the year. The pandemic also hastened advancements in remote work and learning due to lockdowns and travel restrictions, changing the way people work and interact.
+
+Despite efforts to curb its spread, the pandemic led to significant loss of life and challenged global healthcare and socioeconomic systems.
+INFO:root:Session ID: 2c71816e-fb48-40e5-bb8b-4caaa76e06ea, User Query: what is the civilization of japan , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 2c71816e-fb48-40e5-bb8b-4caaa76e06ea, AI Response: The civilization of Japan is one of the oldest and most enduring cultures in the world, characterized by its unique blend of tradition and modernity. Here's a brief overview of key aspects of Japanese civilization:
+
+1. **History**: Japan's history dates back thousands of years, with evidence of human habitation since the Paleolithic era. Major historical periods include the Jomon and Yayoi periods, the classical eras of the Asuka, Nara, and Heian periods, the feudal periods under the Kamakura and Edo shogunates, and the modern era beginning with the Meiji Restoration in the 19th century, which transformed Japan into a modern industrial nation.
+
+2. **Religion and Philosophy**: Shinto, the indigenous spirituality of Japan, has coexisted with Buddhism since its introduction in the 6th century. Confucianism and, to a lesser extent, Taoism have also influenced Japanese thought and culture.
+
+3. **Art and Culture**: Japan is renowned for its rich artistic traditions, including tea ceremonies, calligraphy, ikebana (flower arranging), traditional theater such as Noh and Kabuki, and more recently, popular culture forms like anime and manga. Japanese literature has a long history, with classic works like "The Tale of Genji" and modern authors like Haruki Murakami gaining international acclaim.
+
+4. **Society and Customs**: Japanese society places a strong emphasis on harmony, respect, and group cohesion. Traditional customs such as kimono wearing, martial arts, and seasonal festivals play a significant role in cultural life.
+
+5. **Economic and Technological Development**: Post-World War II, Japan experienced rapid economic growth, becoming a leading global economic power known for its technological innovation in areas like automotive manufacturing and electronics.
+
+While deeply rooted in tradition, Japanese civilization is also dynamic and constantly evolving, playing a significant role in both regional and global contexts.
+INFO:root:Session ID: 2c71816e-fb48-40e5-bb8b-4caaa76e06ea, User Query: what is budihizm , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 2c71816e-fb48-40e5-bb8b-4caaa76e06ea, AI Response: Buddhism is a major world religion and philosophy founded in the 5th century BCE by Siddhartha Gautama, known as the Buddha, in what is now modern-day Nepal and India. Buddhism encompasses a variety of traditions, beliefs, and practices largely based on the teachings of the Buddha. Here are some key aspects of Buddhism:
+
+1. **Four Noble Truths**: These are central to Buddhist teaching and include: the truth of suffering (dukkha), the truth of the cause of suffering (samudaya), the truth of the end of suffering (nirodha), and the truth of the path leading to the end of suffering (magga).
+
+2. **The Eightfold Path**: This is a guide to end suffering and achieve enlightenment, consisting of right understanding, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration.
+
+3. **Nirvana**: The ultimate goal in Buddhism is to achieve Nirvana, a state of liberation and freedom from the cycle of birth and death (samsara) and from suffering.
+
+4. **Dharma**: This refers to the teachings and laws for conduct given by the Buddha. Following the Dharma is believed to lead individuals towards enlightenment.
+
+5. **Karma**: This is the concept of action and result, where a person's actions in this life will affect their future lives. Positive actions lead to positive outcomes, while negative actions lead to negative consequences.
+
+6. **Major Branches**: Buddhism has diverse schools and traditions, the most prominent being Theravada (prevalent in Southeast Asia), Mahayana (in East Asia), and Vajrayana (in Tibet and Mongolia).
+
+Buddhism emphasizes personal spiritual development and the attainment of a deep insight into the true nature of life. It teaches practices such as meditation, mindfulness, and ethical living as means to develop wisdom, compassion, and ultimately achieve enlightenment.
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+INFO:root:Session ID: 87f9fbcf-5898-460d-b500-608da990524f, User Query: can you tell me about consitution , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 87f9fbcf-5898-460d-b500-608da990524f, AI Response: I don’t know.
+INFO:root:Session ID: 87f9fbcf-5898-460d-b500-608da990524f, User Query: what about amendment , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 87f9fbcf-5898-460d-b500-608da990524f, AI Response: I don’t know.
+INFO:root:Session ID: 87f9fbcf-5898-460d-b500-608da990524f, User Query: Welche Schritte sind beim Braten der Eier von der Zubereitung bis zum fertigen Gericht involviert, und wie viel Zeit wird für jeden Schritt laut dem Text benötigt?, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 87f9fbcf-5898-460d-b500-608da990524f, AI Response: Der Text gibt keine spezifischen Zeitangaben für die einzelnen Schritte beim Braten der Eier an. Die Schritte beim Braten der Eier von der Zubereitung bis zum fertigen Gericht sind folgende:
+
+1. Pfanne aus dem Schrank holen und auf die Herdplatte stellen.
+2. Bratfettbox aus dem Kühlschrank holen und neben den Herd stellen.
+3. Bratfett aus der Box in die Pfanne mit dem Messer geben und den Deckel anheben; bei zu wenig Fett in der Box, Gang in den Keller, um eine neue Bratfettbox zu holen.
+4. Eierkarton aus dem Kühlschrank holen und neben den Herd stellen.
+5. Bratflamme anstellen.
+6. Warten auf das Ende des Schmelzvorgangs.
+7. Erhöhung der Heizflamme (falls zu gering eingestellt).
+8. Eier aus dem Karton nehmen (3-mal).
+9. Eier am Pfannenrand aufschlagen und in die Pfanne gleiten lassen.
+10. Falls ein Ei stark am Pfannenaußenrand zur Flamme läuft, Pfanne von der Herdplatte heben, mit einem Tuch säubern und zurückstellen.
+11. Warten, bis die Eier gebraten sind.
+12. Teller aus dem Schrank holen; falls kein Teller da ist, schmutzigen Teller schnell abwaschen.
+13. Fertige Spiegeleier aus der Pfanne auf den Teller legen.
+
+Der Text erwähnt keine spezifischen Zeitangaben für diese Schritte.
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+INFO:root:Session ID: 92039dfa-8ebb-4c9f-be7d-b0af9622aec3, User Query: hello, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 92039dfa-8ebb-4c9f-be7d-b0af9622aec3, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: 92039dfa-8ebb-4c9f-be7d-b0af9622aec3, User Query: what is the consitituion of america article 11 , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 92039dfa-8ebb-4c9f-be7d-b0af9622aec3, AI Response: I don't know. There is no Article 11 in the main body of the United States Constitution. The original Constitution, written in 1787, consists of a Preamble and seven Articles. If you are referring to an amendment, the United States Constitution currently has 27 amendments, with the 11th Amendment dealing with the judicial limits regarding suits against states. If you have questions about a specific part of the Constitution or its amendments, please let me know!
+INFO:root:Session ID: 0602728c-e385-4c91-8674-093c76417bbf, User Query: what is rag, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 0602728c-e385-4c91-8674-093c76417bbf, AI Response: I don’t know.
+INFO:root:Session ID: 18d7afa8-c97c-4516-959b-5121c62c4ac7, User Query: what is consitituion , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 18d7afa8-c97c-4516-959b-5121c62c4ac7, AI Response: The context provided does not contain information about the term "constitution." Generally, in a non-legal sense, a constitution refers to the fundamental principles or established precedents according to which a state or other organization is governed. It typically outlines the structure of the government, the rights of citizens, and the manner in which laws are made, interpreted, and enforced. If you need more specific information, please provide additional context or specify the type of constitution you are referring to.
+WARNING:langsmith.client:Failed to multipart ingest runs: langsmith.utils.LangSmithError: Failed to POST https://api.smith.langchain.com/runs/multipart in LangSmith API. HTTPError('400 Client Error: Bad Request for url: https://api.smith.langchain.com/runs/multipart', '{"detail":"Empty request"}')
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+INFO:root:Session ID: dc9b78f9-aaeb-4328-91dc-c2a8c3fd50c3, User Query: hello, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: dc9b78f9-aaeb-4328-91dc-c2a8c3fd50c3, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: d1b3e786-2dfe-403e-9d40-903552bbacde, User Query: what is rag, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: d1b3e786-2dfe-403e-9d40-903552bbacde, AI Response: I don’t know.
+INFO:root:Session ID: e22b2b8b-6333-4ef2-a051-231bc44b800d, User Query: what is the capital city of ethiopia , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: e22b2b8b-6333-4ef2-a051-231bc44b800d, AI Response: I don't know.
+INFO:root:Session ID: 994f9c79-83e4-451d-a075-ab055036a81f, User Query: what is the name of ethiopia in the anciet time , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 994f9c79-83e4-451d-a075-ab055036a81f, AI Response: I don't know.
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+INFO:root:Session ID: 82acb899-6b83-40ad-ad1e-7607fda97540, User Query: hello can you tell me about consitution , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: 82acb899-6b83-40ad-ad1e-7607fda97540, User Query: Welche Schritte beim Braten der Eier haben laut dem Text eine Zeitangabe, und wie viel Zeit ist für diese Schritte vorgesehen?", Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 82acb899-6b83-40ad-ad1e-7607fda97540, AI Response: Die Schritte beim Braten der Eier, die eine Zeitangabe haben, sind:
+
+13. Eier aufschlagen am Pfannenrand und in die Pfanne gleiten lassen - 120
+14. Ein Ei läuft stark am Pfannenaußenrand runter zur Flamme, Pfanne v. Herdplatte heben, mit Tuch säubern, zurückstell. - 250
+15. Warten bis Eier gebraten sind - 400
+
+Die für diese Schritte vorgesehene Zeit summiert sich auf 770.
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: 5ec8e922-acbb-4dd0-83a9-8d1e2580ce90, User Query: what is amendment , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 5ec8e922-acbb-4dd0-83a9-8d1e2580ce90, AI Response: The context provided includes portions of the U.S. Bill of Rights and subsequent amendments to the United States Constitution. An "amendment" in this context refers to a change or addition made to the U.S. Constitution. The amendments mentioned in the context include:
+
+- Amendment VIII: Prohibits excessive bail, excessive fines, and cruel and unusual punishments.
+- Amendment IX: States that the enumeration of certain rights in the Constitution shall not be construed to deny or disparage other rights retained by the people.
+- Amendment X: Reserves powers not delegated to the United States by the Constitution, nor prohibited to the States, to the States or the people.
+- Amendment XI: Restricts the judicial power of the United States regarding suits against a state by citizens of another state or foreign citizens.
+
+Each amendment serves to clarify or expand upon the rights of individuals and the responsibilities and limitations of government as originally outlined in the U.S. Constitution.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: 90d9c95f-f05d-4511-ae4e-ff5b3f086dbe, User Query: hello, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 90d9c95f-f05d-4511-ae4e-ff5b3f086dbe, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: 90d9c95f-f05d-4511-ae4e-ff5b3f086dbe, User Query: Wie lange dauert der gesamte Prozess zum Braten der Eier?, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 90d9c95f-f05d-4511-ae4e-ff5b3f086dbe, AI Response: Um die gesamte Dauer des Prozesses zum Braten der Eier zu berechnen, addieren wir die Zeiten (t(HM)) aller Prozessschritte:
+
+20 (Pfanne aus Schrank holen) +
+300 (Dienstgespräch mit Chef) +
+50 (Bratfettbox aus Kühlschrank holen) +
+500 (Gang in Keller, neue Bratfettbox holen) +
+30 (Eierkarton holen) +
+600 (Toilettengang) +
+10 (Bratflamme anstellen) +
+200 (Handyanruf von Ehefrau) +
+40 (Bratfett aus Box in die Pfanne geben) +
+100 (Warten auf Ende des Schmelzvorgangs) +
+20 (Erhöhung der Heizflamme) +
+30 (Eier aus Karton nehmen) +
+120 (Eier aufschlagen und in die Pfanne gleiten lassen) +
+250 (Pfanne säubern) +
+400 (Warten bis Eier gebraten sind) +
+300 (Teller aus dem Schrank holen).
+
+Die Summe dieser Zeiten ergibt:
+
+2970 HM (Hundertstel Minuten).
+
+Das entspricht 29,7 Minuten.
+INFO:root:Session ID: 90d9c95f-f05d-4511-ae4e-ff5b3f086dbe, User Query: Welche Schritte zum Braten sind notwendig?, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 90d9c95f-f05d-4511-ae4e-ff5b3f086dbe, AI Response: Die notwendigen Schritte, um die Eier tatsächlich zu braten, sind:
+
+1. Pfanne aus dem Schrank holen und auf die Herdplatte stellen.
+2. Bratfettbox aus dem Kühlschrank holen und neben den Herd stellen.
+3. Bratflamme anstellen.
+4. Bratfett aus der Box in die Pfanne mit einem Messer geben.
+5. Warten auf das Ende des Schmelzvorgangs des Bratfetts.
+6. Eier aus dem Karton nehmen (3 Mal).
+7. Eier am Pfannenrand aufschlagen und in die Pfanne gleiten lassen.
+8. Warten, bis die Eier gebraten sind.
+
+Andere Schritte, wie das Gespräch mit dem Chef, der Gang in den Keller, der Toilettengang, der Anruf von der Ehefrau, und das Holen von schmutzigen Tellern, sind nicht direkt erforderlich für das Braten der Eier und können als zusätzliche, aber nicht notwendige Schritte angesehen werden.
+INFO:backoff:Backing off send_request(...) for 1.0s (requests.exceptions.ConnectionError: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Max retries exceeded with url: /batch/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x79d861ccd3a0>: Failed to resolve 'us.i.posthog.com' ([Errno -3] Temporary failure in name resolution)")))
+INFO:backoff:Backing off send_request(...) for 0.8s (requests.exceptions.ConnectionError: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Max retries exceeded with url: /batch/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x79d88810c680>: Failed to resolve 'us.i.posthog.com' ([Errno -3] Temporary failure in name resolution)")))
+INFO:backoff:Backing off send_request(...) for 1.7s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+INFO:root:Session ID: e625b48f-7547-49f2-b7ca-4552f406e26b, User Query: hello, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: e625b48f-7547-49f2-b7ca-4552f406e26b, AI Response: Hello! How can I assist you today?
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: 3bfe8826-eb9b-42b9-9f81-04c7ed473500, User Query: hello, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 3bfe8826-eb9b-42b9-9f81-04c7ed473500, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: http://ec2-3-143-217-116.us-east-2.compute.amazonaws.com:8080/#/app/FinancialStatementAnalysis/initialsetup, User Query: what is planet, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: http://ec2-3-143-217-116.us-east-2.compute.amazonaws.com:8080/#/app/FinancialStatementAnalysis/initialsetup, AI Response: I don’t know.
+INFO:root:Session ID: http://ec2-3-143-217-116.us-east-2.compute.amazonaws.com:8080/#/app/FinancialStatementAnalysis/initialsetup, User Query: what is planet, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: http://ec2-3-143-217-116.us-east-2.compute.amazonaws.com:8080/#/app/FinancialStatementAnalysis/initialsetup, AI Response: A planet is a celestial body that orbits a star, is spherical in shape due to its own gravity, and has cleared its orbit of other debris. Planets can vary in size, composition, and distance from their respective stars. In our solar system, examples of planets include Earth, Mars, Jupiter, and Saturn.
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+INFO:root:Session ID: 1e128d76-787c-4b3e-b1ff-0313f7e4c39f, User Query: hello, Model: gpt-4o-mini
+INFO:root:Session ID: 0b1aa40a-234e-4a61-888d-c195d798a8d5, User Query: hello who are you , Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+INFO:root:Session ID: a9fa4c67-9158-4e82-92a3-a02a5e1b2fa2, User Query: hello who are you , Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+INFO:root:Session ID: 9cf198f7-2ff4-410d-8f6f-bfa8bc31a20a, User Query: hello who are you , Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+INFO:root:Session ID: 2c353e74-31fa-4519-b421-028ee05bbcc1, User Query: hello who are you , Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+INFO:root:Session ID: 8c6450a7-9b47-49b4-a01a-f858357d9a93, User Query: hell, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+INFO:root:Session ID: fd3ea48f-5049-46a0-9a90-26ded45cc5f9, User Query: hell, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+INFO:root:Session ID: 339c184e-907b-42cd-a89d-5ed6b3ace7da, User Query: hell, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+INFO:root:Session ID: e1ddac87-56db-4bc4-b525-7540c6127c43, User Query: hell, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+INFO:root:Session ID: f4f7a1c3-742e-4d0e-98ea-b808332d3214, User Query: hell, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+INFO:root:Session ID: 0793ac26-513a-49c3-a2a4-1dd501480e8f, User Query: hello, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+INFO:root:Session ID: 997a2a06-4637-463a-9c78-c0daa4db9dcd, User Query: hello, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+INFO:root:Session ID: 49fea747-80a0-4cb8-9fc5-54768db2f8fd, User Query: hello, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+INFO:root:Session ID: 4882a068-e56b-4189-9eed-1c166503b370, User Query: hello, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+INFO:root:Session ID: b79b7d04-76f2-40ee-ae06-874dff0565e5, User Query: hello, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+INFO:root:Session ID: d6fbf589-f82b-4306-9f7e-62ac22ce4f5b, User Query: hello, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+INFO:openai._base_client:Retrying request to /embeddings in 0.435773 seconds
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+INFO:openai._base_client:Retrying request to /embeddings in 0.993488 seconds
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+INFO:root:Session ID: fbad77d2-46c9-4d6f-8b1b-69603e3c5f16, User Query: hello, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+INFO:openai._base_client:Retrying request to /embeddings in 0.481764 seconds
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+INFO:openai._base_client:Retrying request to /embeddings in 0.927629 seconds
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+INFO:root:Session ID: 7dfcab1e-7e66-4887-8230-d223f5f8edd2, User Query: hello, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 7dfcab1e-7e66-4887-8230-d223f5f8edd2, AI Response: Hello! How can I assist you today?
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+INFO:root:Session ID: 90d9c95f-f05d-4511-ae4e-ff5b3f086dbe, User Query: hello, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 90d9c95f-f05d-4511-ae4e-ff5b3f086dbe, AI Response: Hello! How can I help you today?
+INFO:root:Session ID: 90d9c95f-f05d-4511-ae4e-ff5b3f086dbe, User Query: what is chocalate, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 90d9c95f-f05d-4511-ae4e-ff5b3f086dbe, AI Response: I don't know.
+INFO:root:Session ID: af9d3bd2-5e7a-4dcf-bf49-b71b6653e878, User Query: what is the name of average age sheep, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: af9d3bd2-5e7a-4dcf-bf49-b71b6653e878, AI Response: I don't know.
+INFO:root:Session ID: af9d3bd2-5e7a-4dcf-bf49-b71b6653e878, User Query: what is the name of a country close to ethiopia , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: af9d3bd2-5e7a-4dcf-bf49-b71b6653e878, AI Response: One country close to Ethiopia is Kenya, located to the south. Other neighboring countries include Eritrea to the north, Djibouti and Somalia to the east, Sudan and South Sudan to the west, and Uganda to the southwest.
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+INFO:root:Session ID: b8931a62-544a-4b9b-8210-8cda75c15331, User Query: hello, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: b8931a62-544a-4b9b-8210-8cda75c15331, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: b8931a62-544a-4b9b-8210-8cda75c15331, User Query: what is consitution , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: b8931a62-544a-4b9b-8210-8cda75c15331, AI Response: The Constitution of the United States is the supreme law of the United States of America. It establishes the national government's fundamental framework and outlines the rights and responsibilities of its citizens. The Preamble of the Constitution states its purposes, such as forming a more perfect union, establishing justice, ensuring domestic tranquility, providing for common defense, promoting general welfare, and securing the blessings of liberty. The Constitution consists of several Articles, each dealing with different aspects of the government's structure and powers, including the legislative, executive, and judicial branches.
+INFO:root:Session ID: 7cc6ed31-1df4-4813-ada6-835bbc5e2774, User Query: hello, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 7cc6ed31-1df4-4813-ada6-835bbc5e2774, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: 7cc6ed31-1df4-4813-ada6-835bbc5e2774, User Query: what is black bird fighter jet , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 7cc6ed31-1df4-4813-ada6-835bbc5e2774, AI Response: The "Blackbird" typically refers to the Lockheed SR-71 Blackbird, a long-range, advanced, strategic reconnaissance aircraft developed by Lockheed Corporation for the United States Air Force. It was designed in the 1960s by the Lockheed Skunk Works division, led by Clarence "Kelly" Johnson.
+
+The SR-71 was notable for its incredible speed and altitude capabilities, being able to fly at speeds over Mach 3 (three times the speed of sound) and at altitudes of 85,000 feet or more. Its reconnaissance missions involved high-speed, high-altitude flights to gather intelligence without being easily intercepted by enemy forces. The aircraft's design incorporated stealth features to reduce radar visibility.
+
+The SR-71 was retired from service in 1998, but it remains one of the most iconic and advanced military aircraft ever built.
+INFO:root:Session ID: 5626714b-d1a2-4c9c-b7df-e5963f9d61fa, User Query: hello, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 5626714b-d1a2-4c9c-b7df-e5963f9d61fa, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: 5626714b-d1a2-4c9c-b7df-e5963f9d61fa, User Query: what is the main product who can grow in ethiopia , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 5626714b-d1a2-4c9c-b7df-e5963f9d61fa, AI Response: Ethiopia has a diverse agricultural sector with several key crops that are important for both domestic consumption and export. The main products that can grow in Ethiopia include:
+
+1. **Coffee**: Ethiopia is renowned for its coffee, which is a significant export product and is considered to be the birthplace of coffee.
+2. **Teff**: A staple grain used to make injera, a traditional Ethiopian flatbread, teff is widely cultivated.
+3. **Wheat and Barley**: Commonly grown in the highlands, these grains are important for local consumption.
+4. **Maize**: Widely grown for both food and fodder.
+5. **Sorghum and Millet**: These grains are important for food security, especially in arid regions.
+6. **Oilseeds**: Such as sesame and niger seed, which are important export products.
+7. **Pulses**: Including chickpeas, lentils, and beans, which are important both for local diets and for export.
+8. **Fruits and Vegetables**: Including bananas, citrus fruits, potatoes, and onions.
+9. **Chat (Khat)**: A plant whose leaves are chewed for their stimulant effect, and is a significant cash crop.
+
+The agricultural potential in Ethiopia is influenced by its diverse climate and topography, allowing for the growth of a wide variety of crops.
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+INFO:root:Session ID: 76d2de50-53d5-4f7b-87fb-cfbecc05432d, User Query: hello, Model: llama3.2
+INFO:root:Session ID: 76d2de50-53d5-4f7b-87fb-cfbecc05432d, User Query: hello, Model: llama3.2
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 404 Not Found"
+INFO:root:Session ID: 5626714b-d1a2-4c9c-b7df-e5963f9d61fa, User Query: hi, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 404 Not Found"
+INFO:root:Session ID: 5626714b-d1a2-4c9c-b7df-e5963f9d61fa, User Query: hello, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:root:Session ID: 7cc6ed31-1df4-4813-ada6-835bbc5e2774, User Query: hello, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 7cc6ed31-1df4-4813-ada6-835bbc5e2774, AI Response: Hello again! How can I help you today?
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/pull "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:root:Session ID: 7cc6ed31-1df4-4813-ada6-835bbc5e2774, User Query: can you tell me what is the proffession of mengistu?, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 7cc6ed31-1df4-4813-ada6-835bbc5e2774, AI Response: Mengistu Ashebir is a Software Engineer.
+INFO:root:Session ID: 7cc6ed31-1df4-4813-ada6-835bbc5e2774, User Query: how much year of experiance does he have , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 7cc6ed31-1df4-4813-ada6-835bbc5e2774, AI Response: Based on the provided context, Mengistu Ashebir has professional experience from April 2023 to the present (as of the information given, which is dated March 2024). This suggests he has about one year of experience as a Software Engineer.
+INFO:root:Session ID: 7cc6ed31-1df4-4813-ada6-835bbc5e2774, User Query: how many years of experience does he have?, Model: llama3.2
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+INFO:root:Session ID: 7cc6ed31-1df4-4813-ada6-835bbc5e2774, User Query: hi, Model: llama3.2
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: 7cc6ed31-1df4-4813-ada6-835bbc5e2774, AI Response: Hi! How can I help you today?
+INFO:root:Session ID: 5626714b-d1a2-4c9c-b7df-e5963f9d61fa, User Query: give me  me the 2 programming languages mengistu can use , Model: llama3.2
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: 5626714b-d1a2-4c9c-b7df-e5963f9d61fa, AI Response: Based on the information provided about Mengistu Ashebir's skills, here are two programming languages that he can use:
+
+1. **Python**
+2. **JavaScript**
+INFO:root:Session ID: 5626714b-d1a2-4c9c-b7df-e5963f9d61fa, User Query: in which company does he work before , Model: llama3.1
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:root:Session ID: 5626714b-d1a2-4c9c-b7df-e5963f9d61fa, User Query: where was he working before and now , Model: llama3.1
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: 5626714b-d1a2-4c9c-b7df-e5963f9d61fa, AI Response: According to Mengistu Ashebir's professional experience section, he worked as a Software Engineer Intern at Farka ICT before joining Eskalate. 
+
+Here are the details of his previous job:
+
+* Company: Farka ICT
+* Position: Software Engineer Intern
+* Dates: 04/2023 – 07/2023
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: 5626714b-d1a2-4c9c-b7df-e5963f9d61fa, AI Response: According to the context provided, before March 2024, Mengistu Ashebir was a Software Engineer Intern at Farka ICT (04/2023 - 07/2023). 
+
+As of March 2024, he is currently a Software Engineer at Eskalate, where he has been working since 03/2024 and is still present.
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+INFO:root:Session ID: d0eea2bc-c822-4556-aa1b-fcb866cf5782, User Query: hello, Model: llama3.1
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: d0eea2bc-c822-4556-aa1b-fcb866cf5782, AI Response: Hello! It's nice to meet you. I see that you're looking at Mengistu Ashebir's profile, which showcases his impressive background in software engineering and experience with various programming languages, frameworks, and tools. Is there something specific you'd like to know or discuss related to his profile?
+INFO:root:Session ID: d0eea2bc-c822-4556-aa1b-fcb866cf5782, User Query: hello, Model: llama3.1
+INFO:root:Session ID: d0eea2bc-c822-4556-aa1b-fcb866cf5782, User Query: hello, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:root:Session ID: d0eea2bc-c822-4556-aa1b-fcb866cf5782, User Query: hello, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+INFO:root:Session ID: d0eea2bc-c822-4556-aa1b-fcb866cf5782, User Query: hello, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+INFO:root:Session ID: 62831c9f-1596-4cba-a951-f84870e299a1, User Query: hey, Model: llama3.1
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+WARNING:chromadb.segment.impl.vector.local_persistent_hnsw:Number of requested results 2 is greater than number of elements in index 0, updating n_results = 0
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: 62831c9f-1596-4cba-a951-f84870e299a1, AI Response: Hello! How can I assist you today?
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+INFO:root:Session ID: 40dc0b34-8504-4a0b-b887-cb6af4d8baf6, User Query: hello, Model: llama3.1
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+WARNING:chromadb.segment.impl.vector.local_persistent_hnsw:Number of requested results 2 is greater than number of elements in index 0, updating n_results = 0
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: 40dc0b34-8504-4a0b-b887-cb6af4d8baf6, AI Response: Hello! How can I assist you today?
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/home/menge/Documents/docusage/upwork/PoC_App/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/Users/hussen/Desktop/menge/backend/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/Users/hussen/Desktop/menge/backend/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/Users/hussen/Desktop/menge/backend/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+WARNING:passlib.handlers.bcrypt:(trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/Users/hussen/Desktop/menge/backend/venv/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
