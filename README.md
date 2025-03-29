@@ -67,4 +67,3 @@ pip install -r requirements.txt
 
 
 
->>>>>>> a13395b (Track backend folder as regular directory)
